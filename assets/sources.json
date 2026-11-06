@@ -1,0 +1,10 @@
+{
+  "accessed": "2026-10-19",
+  "scope": "中国剪纸对照图像，来源未认定南京流派。展馆内使用的中文标题为编辑性图录标题，不冒充原作名称。",
+  "changes": "仅调整尺寸并转换为 WebP，未改变图样；页面中以 contain 方式完整展示。",
+  "items": [
+    {"file":"spring.webp","original":"Chinese Paper Cutting.png","author":"Lanneixi","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","source":"https://commons.wikimedia.org/wiki/File:Chinese_Paper_Cutting.png"},
+    {"file":"fu.webp","original":"100 Fu (a papercut).JPG","author":"Patricia BjaalandWelch","license":"CC BY-SA 3.0","license_url":"https://creativecommons.org/licenses/by-sa/3.0/","source":"https://commons.wikimedia.org/wiki/File:100_Fu_(a_papercut).JPG"},
+    {"file":"festival.webp","original":"Chinese paper cuttings.jpg","author":"ProjectManhattan","license":"CC BY-SA 3.0","license_url":"https://creativecommons.org/licenses/by-sa/3.0/","source":"https://commons.wikimedia.org/wiki/File:Chinese_paper_cuttings.jpg"}
+  ]
+}
